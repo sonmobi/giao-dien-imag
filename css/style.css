@@ -20,17 +20,29 @@ section#left-page{
 	width: 750px;
 	padding: 10px;
 	 float: left;
-	 background-color: cyan;
+	/* background-color: cyan;*/
 }
 
 aside{
 	width: 250px;
 	padding: 10px; 
 	float: right;
-	background-color: yellow;
+	/*background-color: yellow;*/
 }
 .clr{ clear: both; }
 footer#footer-page{
 	min-height: 100px;
 	background-color: #252525;
 }
+
+/* khoi */
+.block{
+	width: 100%;
+	-webkit-box-shadow: 0 7px 5px 0 #D4D4D4;
+	box-shadow: 0 7px 5px 0 #D4D4D4;
+}
+.block header{
+	border-top: 2px solid cyan;
+}
+
+
