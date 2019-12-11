@@ -92,3 +92,8 @@ footer#footer-page{
 #main-nav ul li a:hover, #main-nav ul li.active a{
 	background-color: #222327;
 }
+
+/*--- phan noi dung */
+#slide-show img{
+	width: 100%;
+}
