@@ -1,0 +1,10 @@
+<!-- bắt đầu khối -->
+				<div class="block">
+					<header>
+						<h3>Category name</h3>	
+					</header>
+					<div class="content-block">
+						noi dung khoi
+					</div>
+				</div>
+				<!-- kết thúc khối --->

@@ -96,4 +96,29 @@ footer#footer-page{
 /*--- phan noi dung */
 #slide-show img{
 	width: 100%;
+	margin-bottom: 20px;
+}
+
+.rec-post .content-block .hot img{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.rec-post ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.rec-post ul li{
+	/*display: inline-block;*/
+	width: 50%;
+	float: left; 
+}
+.rec-post ul li img{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.rec-post h3{
+	margin: 3px 0px;
 }
